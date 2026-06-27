@@ -21,3 +21,8 @@ The data collected is used strictly to:
 
 ## 4. Contact Us
 If you have any questions regarding this Privacy Policy, feel free to contact the developer via our official Discord Support Server or through the developer profile.
+
+SERVER AS BB7
+
+
+BLACK NIGHT 
