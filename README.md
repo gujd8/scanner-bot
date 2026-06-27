@@ -1,8 +1,8 @@
-# Privacy Policy for Black Night scanner bot
+# Privacy Policy for BlackNightVerification 
 
 Effective Date: June 27, 2026
 
-We take your privacy seriously. This Privacy Policy explains what data our Discord application (Black Night scanner) collects, how it is used, and how it is protected.
+We take your privacy seriously. This Privacy Policy explains what data our Discord application (BlackNightVerification ) collects, how it is used, and how it is protected.
 
 ## 1. Data We Collect
 Our bot only accesses and processes data necessary for its core functionalities:
